@@ -1,0 +1,178 @@
+{
+  "locales": [
+    {
+      "id": 1,
+      "value": "TR"
+    },
+    {
+      "id": 2,
+      "value": "EN"
+    }
+  ],
+  "posting": [
+    {
+      "id": 1,
+      "title": "Villa  Boshorus",
+      "description": "Lorem ipsum",
+      "distance": 3.7,
+      "point": 4,
+      "price": 144,
+      "image": "https://picsum.photos/200/300"
+    },
+    {
+      "id": 3,
+      "title": "Villa  Boshorus",
+      "description": "Lorem ipsum",
+      "distance": 3.7,
+      "point": 4,
+      "price": 144,
+      "image": "https://picsum.photos/200/300"
+    },
+    {
+      "id": 2,
+      "title": "Villa  Boshorus",
+      "description": "Lorem ipsum",
+      "distance": 3.7,
+      "point": 4,
+      "price": 144,
+      "image": "https://picsum.photos/200/300"
+    }
+  ],
+  "users": [
+    {
+      "email": "sadasd@asdasd.asdasd",
+      "password": "asdasd",
+      "locale": {
+        "id": 1,
+        "value": "TR"
+      },
+      "id": 1
+    },
+    {
+      "email": "asdasd@asdasd.asasd",
+      "password": "asdasd",
+      "locale": {
+        "id": 1,
+        "value": "TR"
+      },
+      "id": 2
+    },
+    {
+      "email": "asdasd@asdasd.com",
+      "password": "asdasd",
+      "locale": {
+        "id": 1,
+        "value": "TR"
+      },
+      "id": 3
+    },
+    {
+      "email": "asdasd@asd.gasd",
+      "password": "asdasd",
+      "locale": {
+        "id": 1,
+        "value": "TR"
+      },
+      "id": 4
+    },
+    {
+      "email": "asdasdasd",
+      "password": "asdasdasd",
+      "locale": {
+        "id": 1,
+        "value": "TR"
+      },
+      "id": 5
+    },
+    {
+      "email": "asdasdasd",
+      "password": "asdasdasd",
+      "locale": {
+        "id": 1,
+        "value": "TR"
+      },
+      "id": 6
+    },
+    {
+      "email": "asdasdd@asasd.net",
+      "password": "asdasdas",
+      "locale": {
+        "id": 1,
+        "value": "TR"
+      },
+      "id": 7
+    },
+    {
+      "email": "asdasdads@gmail.com",
+      "password": "asdasdasd",
+      "locale": {
+        "id": 1,
+        "value": "TR"
+      },
+      "id": 8
+    },
+    {
+      "email": "asdasd@gmail.com",
+      "password": "asdasd",
+      "locale": {
+        "id": 1,
+        "value": "TR"
+      },
+      "id": 9
+    },
+    {
+      "email": "asdasd@asd.net",
+      "password": "asdasd",
+      "locale": {
+        "id": 1,
+        "value": "TR"
+      },
+      "id": 10
+    },
+    {
+      "email": "asdasd@asd.net",
+      "password": "asdasd",
+      "locale": {
+        "id": 1,
+        "value": "TR"
+      },
+      "id": 11
+    },
+    {
+      "email": "asdasd@asasd.com",
+      "password": "asdasdads",
+      "locale": {
+        "id": 1,
+        "value": "TR"
+      },
+      "id": 12
+    },
+    {
+      "email": "asdasd@asdasd.com",
+      "password": "asdasdasd",
+      "locale": {
+        "id": 1,
+        "value": "TR"
+      },
+      "id": 13
+    },
+    {
+      "email": "asdasd@asdasd.com",
+      "password": "asdasd",
+      "locale": {
+        "id": 1,
+        "value": "TR"
+      },
+      "id": 14
+    },
+    {
+      "email": "asdasd@asdasd.com",
+      "password": "asdasdasd",
+      "locale": {
+        "id": 1,
+        "value": "TR"
+      },
+      "id": 15
+    }
+  ]
+}
